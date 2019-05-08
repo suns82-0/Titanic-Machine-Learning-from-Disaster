@@ -1,6 +1,6 @@
 # Titanic-Machine-Learning-from-Disaster
-1. Exploratory Visualization
-2. Data Cleaning
+- 1. Exploratory Visualization
+- 2. Data Cleaning
 3. Feature Engineering
   3.1 Value Mapping
   3.2 Pipeline
